@@ -129,8 +129,9 @@ MIT License (see LICENSE file)
 
 ## Contact
 
-- Maintainers: dhaarini1806@gmail.com / Email
+- Maintainer: dhaarini1806@gmail.com / Email
 
 ***
 
 Thank you for supporting responsible AI technologies to build a safer information ecosystem.
+
